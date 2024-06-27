@@ -3,5 +3,5 @@ OTXv2==1.2
 psutil==5.7.0
 requests==2.32.2
 simplejson==3.17.0
-khulnasoft-sdk==1.1.1
 distro==1.4.0
+khulnasoft-analyze-sdk==1.21

@@ -17,9 +17,9 @@ from flask import render_template
 from flask import request
 from flask import send_file
 from flask import send_from_directory
-from khulnasoft_sdk import api
-from khulnasoft_sdk import errors
-from khulnasoft_sdk.analysis import Analysis
+from hulnasoft_analyze_sdk import api
+from hulnasoft_analyze_sdk import errors
+from hulnasoft_analyze_sdk.analysis import Analysis
 from werkzeug.utils import secure_filename
 
 import config
